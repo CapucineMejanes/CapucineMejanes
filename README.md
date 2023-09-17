@@ -1,5 +1,7 @@
 ### Welcome ! You will find here some illustrations of my work as a PhD student at CEA Saclay ! I am working on simulation and modelisation of nuclear glasses and using a Lattice Boltzmann Method, which can be used for a very wide panel of application.
 
+Fist video : Ostwald Ripening for ternary nuclar glasse (Na2O-SiO2-MoO3 with real thermodynamic values. 
+https://github.com/CapucineMejanes/CapucineMejanes/assets/145136431/cc8c1f97-b56c-44e3-a0fa-04b3fcd3f321
 
 <!--
 **CapucineMejanes/CapucineMejanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +19,5 @@ Here are some ideas to get you started:
 -->
 
 
-https://github.com/CapucineMejanes/CapucineMejanes/assets/145136431/cc8c1f97-b56c-44e3-a0fa-04b3fcd3f321
+
 
