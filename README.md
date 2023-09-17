@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome ! You will find here some illustrations of my work as a PhD student at CEA Saclay ! I am working on simulation and modelisation of nuclear glasses and using a Lattice Boltzmann Method, which can be used for a very wide panel of application.
+
 
 <!--
 **CapucineMejanes/CapucineMejanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
