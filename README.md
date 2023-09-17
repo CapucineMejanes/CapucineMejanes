@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+https://github.com/CapucineMejanes/CapucineMejanes/assets/145136431/cc8c1f97-b56c-44e3-a0fa-04b3fcd3f321
+
