@@ -25,12 +25,17 @@ Here are some ideas to get you started:
 https://github.com/CapucineMejanes/CapucineMejanes/assets/145136431/9f54bd1c-7d4c-4ea3-ac74-89221a7260e1
 
 
-Second video : Rayleigh-Taylor instability in 3 phases
+Second video : Ostwald Ripening for a ternary glass with thermodynamic values.
 
 
 
 
-https://github.com/CapucineMejanes/CapucineMejanes/assets/145136431/f0b37ace-61af-482a-ab3f-46d2cc9429dc
+
+
+https://github.com/CapucineMejanes/CapucineMejanes/assets/145136431/1f7045f2-0502-4422-919f-de748baa8ce6
+
+
+
 
 
 
