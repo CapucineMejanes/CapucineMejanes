@@ -31,8 +31,12 @@ Second video : Ostwald Ripening for a ternary glass with thermodynamic values.
 https://github.com/CapucineMejanes/CapucineMejanes/assets/145136431/72aa3e36-4694-4191-a6c9-3f89240acd34
 
 
+Third video : Falling droplet.
 
 
+
+
+https://github.com/CapucineMejanes/CapucineMejanes/assets/145136431/630c1ae6-bc20-470d-addf-c3d5275da2e0
 
 
 
