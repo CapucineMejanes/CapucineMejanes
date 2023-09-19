@@ -28,11 +28,11 @@ https://github.com/CapucineMejanes/CapucineMejanes/assets/145136431/9f54bd1c-7d4
 Second video : Ostwald Ripening for a ternary glass with thermodynamic values.
 
 
+https://github.com/CapucineMejanes/CapucineMejanes/assets/145136431/72aa3e36-4694-4191-a6c9-3f89240acd34
 
 
 
 
-https://github.com/CapucineMejanes/CapucineMejanes/assets/145136431/1f7045f2-0502-4422-919f-de748baa8ce6
 
 
 
