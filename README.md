@@ -1,6 +1,6 @@
 ### Welcome ! You will find here some illustrations of my work as a PhD student at CEA Saclay ! I am working on simulation and modelisation of nuclear glasses and using a Lattice Boltzmann Method, which can be used for a very wide panel of application.
 
-Fist video : Directional solidification. 
+First video : Directional solidification. 
 A cosinusoidal interface is initialized between a solid phase and a liquid phase. A temperature gradient is imposed, graduating from a cold temperature at the bottom to a hotter one at the top of the domain.
 The solidification is dominated by the atomic diffusion of the liquid molecule to the solid interface. The phenomenon is accelerated at higher temperature which lead to a dendritic growth.
 
